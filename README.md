@@ -8,8 +8,8 @@ For my final project in the Computational Statistics course I did a simulation s
 The structure of the paper is as follows:
 
 - Introduction
-- Description of Methods
-- Description of Simulation Set-Up
+- Description of BART and DART
+- Description of Homogenous Gene Expression Model and Multi-Hit Model of Cancer
 - Simulation Results
 - Empirical Application
 - Conclusion
